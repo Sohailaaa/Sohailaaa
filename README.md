@@ -3,7 +3,7 @@
 [![Email: sohailahakeem17@gmail.com](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-sohailahakeem17.com-black?style=for-the-badge)](mailto:sohailahakeem17@gmail.com)[![LinkedIn: Sohaila Hakeem](https://img.shields.io/badge/-Sohaila%20Hakeem-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohaila-hakeem-819801221/)
 
 
-I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foundation in full-stack development. I am currently expanding my expertise at TRU[https://www.linkedin.com/company/truapp/posts/?feedView=all]. Previously, I worked at [Amazon Payment](https://www.amazon.com) , [Procore technologies](https://www.procore.com/en-ae), [EJADA](https://www.ejada.com/) and [Bosta](https://bosta.co/en-eg/home).  
+I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foundation in full-stack development. I am currently expanding my expertise at [TRU][https://www.linkedin.com/company/truapp/posts/?feedView=all]. Previously, I worked at [Amazon Payment](https://www.amazon.com) , [Procore technologies](https://www.procore.com/en-ae), [EJADA](https://www.ejada.com/) and [Bosta](https://bosta.co/en-eg/home).  
 <br />
 With a focus on building scalable, efficient, and user-centric solutions, I am continuously honing my skills to solve complex technical challenges.
 
