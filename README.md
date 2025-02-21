@@ -7,6 +7,28 @@ I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foun
 <br />
 With a focus on building scalable, efficient, and user-centric solutions, I am continuously honing my skills to solve complex technical challenges.
 
+
+## 🏢 Companies I worked with
+
+<table border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
+<tr>
+<td>
+    <a href= "https://shahry.app" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Shahry" align="center" src="assets/TRU.png"></a>
+</td>
+<td>
+    <a href= "https://www.amazon.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Amazon" align="center" src="assets/Amazon.png"></a>
+</td>
+<td>
+    <a href= "https://www.procore.com/en-ae" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Procore" align="center" src="assets/Procore.png"></a>
+</td>
+<td>
+    <a href= "https://www.ejada.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Ejada" align="center" src="assets/Ejada.png"></a>
+</td>
+<td>
+    <a href= "https://bosta.co/en-eg/home" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Bosta" align="center" src="assets/Bosta.png"></a>
+</td>
+</table>
+
 ## 🛠️ Skills
 
 ### Software Engineering
