@@ -1,5 +1,10 @@
 # 👋 Hi, I'm Sohaila Hakeem
-[![MasterHead](https://camo.githubusercontent.com/4c3fd71b359cd5dfadc21247cde8f16ecbe5d41db8ac79ef28e3091ab02a8bef/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f6d61785f313230302f3831626234623136353638343031392e363430623630333864313333652e676966)]()
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW12aXRmdDlwaXpvazZic3E5djJ6aWR0MTlyeG85MXR0c3JnZjVweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200px" alt="MasterHead">
+</div>
+
+
 [![Email: sohailahakeem17@gmail.com](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-sohailahakeem17.com-black?style=for-the-badge)](mailto:sohailahakeem17@gmail.com)[![LinkedIn: Sohaila Hakeem](https://img.shields.io/badge/-Sohaila%20Hakeem-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohaila-hakeem-819801221/)
 
 
