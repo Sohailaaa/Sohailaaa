@@ -3,9 +3,7 @@
 [![Email: sohailahakeem17@gmail.com](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-sohailahakeem17.com-black?style=for-the-badge)](mailto:sohailahakeem17@gmail.com)[![LinkedIn: Sohaila Hakeem](https://img.shields.io/badge/-Sohaila%20Hakeem-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohaila-hakeem-819801221/)
 
 
-I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foundation in full-stack development. I am currently expanding my expertise at [TRU](https://www.linkedin.com/company/truapp/posts/?feedView=all). Previously, I worked at [Amazon Payment](https://www.amazon.com) , [Procore technologies](https://www.procore.com/en-ae), [EJADA](https://www.ejada.com/) and [Bosta](https://bosta.co/en-eg/home).  
-<br />
-With a focus on building scalable, efficient, and user-centric solutions, I am continuously honing my skills to solve complex technical challenges.
+I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foundation in Cloud Computing and full-stack development mainly backend with a focus on building scalable, efficient, and user-centric solutions, I am continuously honing my skills to solve complex technical challenges.
 
 
 ## 🏢 Companies I worked with
@@ -16,7 +14,10 @@ With a focus on building scalable, efficient, and user-centric solutions, I am c
     <a href= "https://shahry.app" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Shahry" align="center" src="assets/TRU.png"></a>
 </td>
 <td>
-    <a href= "https://www.amazon.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Amazon" align="center" src="assets/Amazon.png"></a>
+    <a href= "https://www.pwc.com/m1/en/careers/egypt-technology-innovation-centre/etic-youth-academy.html" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Bosta" align="center" src="assets/PWC.jpg"></a>
+</td>
+<td>
+    <a href= "https://www.amazon.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Amazon" align="center" src="assets/Amazon.jpg"></a>
 </td>
 <td>
     <a href= "https://www.procore.com/en-ae" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Procore" align="center" src="assets/Procore.png"></a>
@@ -26,6 +27,11 @@ With a focus on building scalable, efficient, and user-centric solutions, I am c
 </td>
 <td>
     <a href= "https://bosta.co/en-eg/home" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Bosta" align="center" src="assets/Bosta.png"></a>
+</td>
+
+ 
+   <td>
+    <a href= "https://www.hadbrok.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Bosta" align="center" src="assets/Hadbrok.jpg"></a>
 </td>
 </table>
 
