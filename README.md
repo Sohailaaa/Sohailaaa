@@ -19,9 +19,6 @@ I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foun
     <a href= "https://shahry.app" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Shahry" align="center" src="assets/TRU.png"></a>
 </td>
 <td>
-    <a href= "https://www.pwc.com/m1/en/careers/egypt-technology-innovation-centre/etic-youth-academy.html" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Bosta" align="center" src="assets/PWC.jpg"></a>
-</td>
-<td>
     <a href= "https://www.amazon.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Amazon" align="center" src="assets/Amazon.jpg"></a>
 </td>
 <td>
