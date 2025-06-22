@@ -3,6 +3,15 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW12aXRmdDlwaXpvazZic3E5djJ6aWR0MTlyeG85MXR0c3JnZjVweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200px" alt="MasterHead">
 </div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohailaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+</div>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sohailaaa&label=Profile%20views&color=0e75b6&style=flat" alt="sohailaaa" /> </p>
+
+
+
 
 
 [![Email: sohailahakeem17@gmail.com](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-sohailahakeem17.com-black?style=for-the-badge)](mailto:sohailahakeem17@gmail.com)[![LinkedIn: Sohaila Hakeem](https://img.shields.io/badge/-Sohaila%20Hakeem-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohaila-hakeem-819801221/)
