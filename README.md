@@ -21,7 +21,9 @@ I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foun
 
 
 ## 🏢 Companies I worked with
-
+<td>
+    <a href= "https://www.talabat.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="talabat" align="center" src="assets/talabat.jpg"></a>
+</td>
 <table border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
 <tr>
 <td>
