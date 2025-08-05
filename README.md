@@ -19,36 +19,51 @@
 
 I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foundation in Cloud Computing and full-stack development mainly backend with a focus on building scalable, efficient, and user-centric solutions, I am continuously honing my skills to solve complex technical challenges.
 
+## 🏢 Companies I worked with
 
 ## 🏢 Companies I worked with
 
-<table border=0 cellspacing=0 cellpadding=0 rules=none align="center"  overflow-y="hidden">
-  
-<tr>
-  <td>
-    <a href= "https://www.talabat.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="talabat" align="center" src="assets/talabat.jpg"></a>
-</td>
-<td>
-    <a href= "https://shahry.app" target="_blank" rel="noopener noreferrer"><img hight="100" width="100" alt="Shahry" align="center" src="assets/TRU.png"></a>
-</td>
-<td>
-    <a href= "https://www.amazon.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Amazon" align="center" src="assets/Amazon.jpg"></a>
-</td>
-<td>
-    <a href= "https://www.procore.com/en-ae" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Procore" align="center" src="assets/Procore.png"></a>
-</td>
-<td>
-    <a href= "https://www.ejada.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Ejada" align="center" src="assets/Ejada.png"></a>
-</td>
-<td>
-    <a href= "https://bosta.co/en-eg/home" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Bosta" align="center" src="assets/Bosta.png"></a>
-</td>
-
- 
-   <td>
-    <a href= "https://www.hadbrok.com/" target="_blank" rel="noopener noreferrer"> <img hight="100" width="100" alt="Bosta" align="center" src="assets/Hadbrok.jpg"></a>
-</td>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td>
+      <a href="https://www.talabat.com/" target="_blank" rel="noopener noreferrer">
+        <img src="assets/talabat.jpg" alt="talabat" style="height:100px; width:200px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://shahry.app" target="_blank" rel="noopener noreferrer">
+        <img src="assets/TRU.png" alt="Shahry" style="height:100px; width:200px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.amazon.com/" target="_blank" rel="noopener noreferrer">
+        <img src="assets/Amazon.jpg" alt="Amazon" style="height:100px; width:200px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.procore.com/en-ae" target="_blank" rel="noopener noreferrer">
+        <img src="assets/Procore.png" alt="Procore" style="height:100px; width:200px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.ejada.com/" target="_blank" rel="noopener noreferrer">
+        <img src="assets/Ejada.png" alt="Ejada" style="height:100px; width:200px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://bosta.co/en-eg/home" target="_blank" rel="noopener noreferrer">
+        <img src="assets/Bosta.png" alt="Bosta" style="height:100px; width:200px;">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.hadbrok.com/" target="_blank" rel="noopener noreferrer">
+        <img src="assets/Hadbrok.jpg" alt="Hadbrok" style="height:100px; width:200px;">
+      </a>
+    </td>
+  </tr>
 </table>
+
+
 
 ## 🛠️ Skills
 
