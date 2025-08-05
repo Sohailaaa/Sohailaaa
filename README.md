@@ -18,7 +18,6 @@
 
 I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foundation in Cloud Computing and full-stack development mainly backend with a focus on building scalable, efficient, and user-centric solutions, I am continuously honing my skills to solve complex technical challenges.
 
-## 🏢 Companies I worked with
 
 ## 🏢 Companies I worked with
 
