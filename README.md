@@ -4,8 +4,8 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW12aXRmdDlwaXpvazZic3E5djJ6aWR0MTlyeG85MXR0c3JnZjVweCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="1200px" alt="MasterHead">
 </div>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohailaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=sohailaaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sohailaaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> -->
 </div>
 
 
