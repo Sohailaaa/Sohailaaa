@@ -13,8 +13,6 @@
 
 
 
-[![Email: sohailahakeem17@gmail.com](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F%20Email-sohailahakeem17.com-black?style=for-the-badge)](mailto:sohailahakeem17@gmail.com)[![LinkedIn: Sohaila Hakeem](https://img.shields.io/badge/-Sohaila%20Hakeem-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sohaila-hakeem-819801221/)
-
 
 I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foundation in Cloud Computing and full-stack development mainly backend with a focus on building scalable, efficient, and user-centric solutions, I am continuously honing my skills to solve complex technical challenges.
 
