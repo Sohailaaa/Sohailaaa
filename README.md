@@ -21,6 +21,11 @@ I'm a passionate **Software Engineer** based in Cairo, Egypt, with a strong foun
 
 <table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
+     <td>
+      <a href="https://www.noon.com/" target="_blank" rel="noopener noreferrer">
+        <img src="assets/Noon.jpg" alt="Noon" style="height:100px; width:200px;">
+      </a>
+    </td>
     <td>
       <a href="https://www.talabat.com/" target="_blank" rel="noopener noreferrer">
         <img src="assets/talabat.jpg" alt="talabat" style="height:100px; width:200px;">
